@@ -89,10 +89,7 @@ source ~/.zshrc  # or source ~/.bashrc
 which dnsrecon amass theHarvester waybackurls gau gf
 ```
 
-//i will clean it later :) 
-
 If they return paths, you're good to go.
 
----
 
-Would you like a ready-made `README.md` with this formatted and a small usage example included?
+//i will clean this file later :) 
